@@ -53,7 +53,12 @@
             padding: 10px;
         }
         .main-content {
-            background: white;
+            /*Changes done from line 57 while interviewing*/    
+            background: pink;
+            text-align:center;
+            color:blue;
+            margin-bottom:50px;
+            /*till line no 60*/
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
